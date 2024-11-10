@@ -1,0 +1,22 @@
+body{
+    background-image: url(img.jpg);
+    color: white;
+}
+
+.container{
+    width: 800px;
+    height: 700px;
+    padding: 20px;
+    backdrop-filter: blur(50px);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+
+ .btn-primary:hover{
+    color: black;
+ }
